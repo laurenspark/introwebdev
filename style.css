@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: pink;
+}
+
+.about {
+    margin-top: 60px;
+}
+
+.profilepicture {
+    border-radius: 50%;
+    border: 1px solid white;
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.name {
+    text-align: center;
+}
+
+.button {
+    background: white;
+    color: black;
+    display: block;
+    height: 60px;
+    width: 400px;
+    border-radius: 20px;
+    margin: 20px auto;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    line-height: 60px;
+    font-size: 20px;
+}
